@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react"
+  },
+  "files": [
+    "../typings/main.d.ts",
+    "../out/main.d.ts"
+  ]
+}
